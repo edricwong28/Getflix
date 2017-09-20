@@ -36,7 +36,7 @@
 
       console.log("WORKGIN!")
 
-      var key = "819174faa3fc447084b0d2c6d4bf1418";
+      var key = "dccb055e9c4fe464073b8f35eef22edb";
       //WEATHER DATA WILL USE CITY INPUT FROM NEW OBJECT
       var URL = "http://api.openweathermap.org/data/2.5/weather?q=" + newObject.city + "&APPID=" + key;
    
